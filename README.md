@@ -38,5 +38,8 @@ Job Descriptions: data/jds/ (Plain text .txt)
 3. Execution
 Run the analysis via the terminal:
 
-📊 Performance Validation
+
+Performance Validation
+
 The system includes a validation framework to measure the correlation between AI-generated match scores and human ground-truth assessments using Pearson Correlation and Mean Squared Error. This ensures the model provides a reliable signal for recruitment decision support.
+
