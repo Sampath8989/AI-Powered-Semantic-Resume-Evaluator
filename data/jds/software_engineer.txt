@@ -1,0 +1,19 @@
+Company: InnovateAI Solutions
+Position: Machine Learning Engineer
+Location: Remote/Hybrid (SF Bay Area)
+Job Summary
+We are looking for a passionate Machine Learning Engineer to build and deploy advanced AI models to improve our customer experience. You will collaborate with engineering and product teams to integrate ML solutions into our core product. 
+Responsibilities
+Design and implement machine learning models (TensorFlow/PyTorch) for personalized user experiences.
+Develop data pipelines and ETL processes using Python and SQL.
+Deploy models to production environments using Docker and AWS.
+Analyze large datasets to extract actionable insights. 
+Required Qualifications
+Bachelor’s or Master’s degree in Computer Science or related field.
+3+ years of experience in machine learning development.
+Proficiency in Python (Pandas, Scikit-learn) and SQL.
+Experience with deep learning frameworks like TensorFlow or PyTorch.
+Knowledge of cloud platforms (AWS or Google Cloud). 
+Preferred Skills
+Experience with NLP or Recommendation Engines.
+Familiarity with Docker and Kubernetes.
